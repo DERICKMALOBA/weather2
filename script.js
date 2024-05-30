@@ -89,3 +89,4 @@ function clearSuggestions() {
   const suggestionsList = document.getElementById('suggestions');
   suggestionsList.innerHTML = '';
 }
+console.log ("Push changes to github")
